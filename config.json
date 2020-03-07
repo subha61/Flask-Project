@@ -1,0 +1,14 @@
+{
+  "params": {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/motivation",
+    "prod_uri": "mysql://root:@localhost/motivation",
+    "fb_url": "https://facebook.com",
+    "tw_url": "https://twitter.com",
+    "ln_url": "https://linkedin.com",
+    "gmail_user": "subha2766@gmail.com",
+    "gmail_password": "subhamunu@",
+    "admin_user": "subha@gmail.com",
+    "admin_password": "subha@123"
+  }
+}
